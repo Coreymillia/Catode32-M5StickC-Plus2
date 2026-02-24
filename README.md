@@ -129,7 +129,7 @@ Original project: **[catode32](https://github.com/moonbench/catode32)** by [moon
 — a virtual pet written in MicroPython for ESP32 with an SSD1306 OLED display.
 
 All cat sprites, behavior logic, stat system, and scene design originate from that project. This repo is a hardware port, not a fork of the original codebase.
-
+NOTE: the original appears to do a LOT more than this one. I have not tested this very much. I may never. 
 ---
 
 ## License
