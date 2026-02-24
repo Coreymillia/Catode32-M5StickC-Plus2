@@ -89,7 +89,7 @@ The original catode32 runs on a custom ESP32 breadboard with an SSD1306 128×64 
 ### Option 1 — M5Burner (easiest)
 
 1. Open [M5Burner](https://docs.m5stack.com/en/download)
-2. Click **+** to add a local firmware and select `release/M5Catode-v1.0-MERGED.bin`
+2. Search for Catode32
 3. Flash to your M5StickC Plus2
 
 ### Option 2 — PlatformIO
